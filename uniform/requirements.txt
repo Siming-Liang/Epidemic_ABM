@@ -1,0 +1,4 @@
+Mesa==3.2.0
+solara==1.51.1
+numpy==2.3.2
+matplotlib==3.10.5
